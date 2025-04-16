@@ -1,7 +1,7 @@
 ## Welcome! ✨
 
 ### 🔍 About me:
-✨ I'm an Environmental **Engineering** graduate from UFPB (Brazil) with a **deep passion for data, technology, and problem-solving through programming**.
+✨ I'm an Environmental **Engineering** graduate from UFPB (Brazil) with a **deep passion for data, technology, and problem-solving through programming**. 
 
 During university, I discovered a **strong interest in programming and its ability to improve problem-solving**. One of the highlights of my academic journey was a course on **Programming Applied to Environmental Engineering**, where I developed a VBA-based application to calculate water leakage in buildings — that was when I discovered how coding could significantly increase efficiency and accuracy in solving real-world challenges. I also work on a cost-effectiveness analysis for my final thesis, identifying optimal scenarios based on both cost and effectiveness — an experience that refined my **analytical thinking**, communication, and writing skills.
 
