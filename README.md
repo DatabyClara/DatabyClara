@@ -24,3 +24,6 @@ In September 2024, I participated in the Circular Design Camp — a two-day inno
 
 ### ⚡Let's connect:
  I’m excited to contribute to meaningful projects and help organizations and stakeholders approuch challenges through data-driven solutions. Feel free to reach out if you'd like to connect or collaborate!
+
+ LinkedIn: <https://www.linkedin.com/in/claradantas/>
+
