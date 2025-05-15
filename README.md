@@ -12,7 +12,7 @@ I developed my programming skills in university by creating a VBA tool for water
  
 
 ### **Highlights & Awards**: 
-- Circular Design Camp Winner (2024): My team won Best Solution for a real business challenge involving community engagement in a CO₂-reduction project. We designed a communication strategy to build public support, applying creative thinking and teamwork in a hands-on, real-world setting.
+Circular Design Camp Winner (2024): My team won Best Solution for a real business challenge involving community engagement in a CO₂-reduction project. We designed a communication strategy to build public support, applying creative thinking and teamwork in a hands-on, real-world setting.
 
 Academic Achievement: Graduated with the second-highest GPA in my class, demonstrating dedication and continuous motivation to grow throughout my academic and professional journey.
  
