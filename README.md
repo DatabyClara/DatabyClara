@@ -16,17 +16,18 @@ After moving to Denmark, I enhanced my data skills through a program at ReDI Sch
 ### **Highlights & Awards**: 
 - Circular Design Camp Winner
   
-In September 2024, I participated in the Circular Design Camp — a two-day innovation event focused on the circular economy. **My team was awarded Best Solution for a Real Business Challenge**. The challenge we tackled a challenge involving community engagement for a CO2-reduction project, where we had to design an **effective communication** strategy to gain public support. The event was immersive and collaborative, giving us a chance to apply creative thinking, rapid prototyping, and **teamwork in a real business context**.
+In September 2024, I joined the Circular Design Camp — a two-day innovation event focused on the circular economy. My team won Best Solution for a real business challenge involving community engagement in a CO₂-reduction project. We designed an effective communication strategy to build public support. The experience was highly collaborative and hands-on, allowing us to apply creative thinking, rapid prototyping, and teamwork in a real-world context.
 
 - Academic Achievement:
   
-Throughout my academic and professional path, I’ve remained dedicated and **constantly driven to grow**. A reflection of this commitment is graduating with the second-highest GPA in my class. 
+Throughout my academic and professional journey, I have stayed dedicated and motivated to continuously grow. This commitment is reflected in graduating with the second-highest GPA in my class.
 
  
 
 ### Contact:
- I’m excited to contribute to meaningful projects and help organizations and stakeholders approuch challenges through data-driven solutions. Feel free to reach out if you'd like to connect or collaborate!
+I’m excited to contribute to meaningful projects and help organizations and stakeholders tackle challenges with data-driven solutions.
 
- LinkedIn: <https://www.linkedin.com/in/claradantas/>
- E-mail: lealdclara @gmail.com
+Feel free to reach out if you'd like to connect or collaborate!
+LinkedIn: <https://www.linkedin.com/in/claradantas/>
+E-mail: lealdclara @gmail.com
 
