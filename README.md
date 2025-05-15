@@ -1,27 +1,20 @@
 ## Welcome! ✨
 
 ### About me:
-✨ I'm an **Data Analyst** with a background in Environmental **Engineering** from UFPB (Brazil) passionate about using data, technology, and programming to solve real-world problems
+✨ I'm an **Data Analyst** with a background in Environmental **Engineering**, passionate about using data, technology, and programming to solve real-world problems
 
-### Academic & Projects:
-My interest in programming began during university, where I created a VBA tool to calculate water leakage in buildings, and later conducted a cost-effectiveness analysis for my thesis. These experiences strengthened my skills in data interpretation, problem-solving, and communication.
+### Skills & Experience:
 
-After moving to Denmark, I enhanced my data skills through a program at ReDI School, focusing on Python, SQL, and stakeholder-oriented analysis. I also participated in workshops on leadership, co-creation, and design thinking, which developed my ability to collaborate and innovate.
-
+I developed my programming skills in university by creating a VBA tool for water leakage calculations and conducting a cost-effectiveness analysis for my thesis. After relocating to Denmark, I enhanced my data expertise through a program at ReDI School, focusing on Python, SQL, and business analysis. I also gained experience in leadership, co-creation, and design thinking through workshops.
 
 📒 Currently, I’m deepening my expertise in **business metrics, statistics, machine learning, and tools like Tableau and Power BI**, through the TripleTen Bootcamp and additional online courses.
 
  
 
 ### **Highlights & Awards**: 
-- Circular Design Camp Winner
-  
-In September 2024, I joined the Circular Design Camp — a two-day innovation event focused on the circular economy. My team won Best Solution for a real business challenge involving community engagement in a CO₂-reduction project. We designed an effective communication strategy to build public support. The experience was highly collaborative and hands-on, allowing us to apply creative thinking, rapid prototyping, and teamwork in a real-world context.
+- Circular Design Camp Winner (2024): My team won Best Solution for a real business challenge involving community engagement in a CO₂-reduction project. We designed a communication strategy to build public support, applying creative thinking and teamwork in a hands-on, real-world setting.
 
-- Academic Achievement:
-  
-Throughout my academic and professional journey, I have stayed dedicated and motivated to continuously grow. This commitment is reflected in graduating with the second-highest GPA in my class.
-
+Academic Achievement: Graduated with the second-highest GPA in my class, demonstrating dedication and continuous motivation to grow throughout my academic and professional journey.
  
 
 ### Contact:
