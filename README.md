@@ -21,6 +21,8 @@ I developed my programming skills in university by creating a VBA tool for water
 I’m excited to contribute to meaningful projects and help organizations and stakeholders tackle challenges with data-driven solutions.
 
 Feel free to reach out if you'd like to connect or collaborate!
+
 LinkedIn: <https://www.linkedin.com/in/claradantas/>
+
 E-mail: lealdclara @gmail.com
 
