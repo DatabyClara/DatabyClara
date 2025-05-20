@@ -27,5 +27,6 @@ Feel free to reach out if you'd like to connect or collaborate!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claradantas/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lealdclara@gmail.com)
 
 
+
 E-mail: 
 
