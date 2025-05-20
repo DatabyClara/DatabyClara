@@ -1,8 +1,7 @@
 ## Welcome! ✨
 
 ### About me:
-- I'm an **Data Analyst** with a background in Environmental **Engineering**
-- Passionate about using data, technology, and programming to solve real-world problems
+- I'm an **Data Analyst** with a background in Environmental **Engineering**, passionate about using data, technology, and programming to solve real-world problems
 - **Interested** in climate, ESG, customer behavior and business analysis
 - **Experienced** in data projects involving sustainability, customers, sales, cost-efficiency analysis, and mathematical modeling.
 
