@@ -15,13 +15,13 @@
 - Exploring real-world datasets related to carbon reduction, life cycle assessment (LCA) and sustainability.
 
 ### **Highlights & Awards**: 
-🥇 Winner – Circular Design Camp (2024): Designed a public engagement strategy for a CO₂-reduction project (real business case).
+- 🥇 Winner – Circular Design Camp (2024): Designed a public engagement strategy for a CO₂-reduction project (real business case).
 
-🎓 2nd-highest GPA in Environmental Engineering
+- 🎓 2nd-highest GPA in Environmental Engineering
  
 ### Contact:
 I’m excited to contribute to meaningful projects and help organizations and stakeholders tackle challenges with data-driven solutions.
 
 Feel free to reach out if you'd like to connect or collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claradantas/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lealdclara@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claradantas/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lealdclara@gmail.com)
