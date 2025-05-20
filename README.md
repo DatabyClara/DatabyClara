@@ -1,8 +1,9 @@
 ## Welcome! ✨
 
 ### About me:
-- I'm an **Data Analyst** with a background in Environmental **Engineering**, passionate about using data, technology, and programming to solve real-world problems
-- **Interested** in climate, ESG, customer behavior and business analysis
+- I'm an **Data Analyst** with a background in Environmental **Engineering**.
+- Passionate about using data, technology, and programming to solve real-world problems.
+- **Interested** in climate, ESG, customer behavior and business analysis.
 - **Experienced** in data projects involving sustainability, customers, sales, cost-efficiency analysis, and mathematical modeling.
 
 ### Skills & Tools:
@@ -13,15 +14,13 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
 ### 📚 Learning Now
 - TripleTen Bootcamp: Business metrics and machine learning.
 - Exploring real-world datasets related to carbon reduction, life cycle assessment (LCA) and sustainability.
 
 ### **Highlights & Awards**: 
 - 🥇 Winner – Circular Design Camp (2024): Designed a public engagement strategy for a CO₂-reduction project (real business case).
-- 🎓 2nd-highest GPA in Environmental Engineering
+- 🎓 2nd-highest GPA in Environmental Engineering.
  
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claradantas/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lealdclara@gmail.com)
