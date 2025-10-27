@@ -4,7 +4,7 @@
 - I'm an **Data Analyst** with a background in **Engineering**.
 - Passionate about using data, technology, and programming to solve real-world problems.
 - **Interested** in customer behavior and business analysis.
-- **Experienced** in data projects involving customers, sales, cost-efficiency analysis, and mathematical modeling.
+- **Experienced** in data projects involving customers, sales, cost-efficiency analysis, mathematical modeling, and sustainability.
 
 ### Skills & Tools:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -16,11 +16,11 @@
 
 ### 📚 Learning Now
 - TripleTen Bootcamp: Business metrics and machine learning.
-- Exploring real-world datasets related to carbon reduction, life cycle assessment (LCA) and sustainability.
+- Exploring real-world datasets related to sales and business analytics.
 
 ### **Highlights & Awards**: 
-- 🥇 Winner – Circular Design Camp (2024): Designed a public engagement strategy for a CO₂-reduction project (real business case).
-- 🎓 2nd-highest GPA in Environmental Engineering.
+- 🥇 Winner – Circular Design Camp - Denmark (2024): Designed a public engagement strategy for a CO₂-reduction project (real business case).
+- 🎓 Graduated with the 2nd-highest GPA in B.Sc. Environmental Engineering.
  
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claradantas/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lealdclara@gmail.com)
