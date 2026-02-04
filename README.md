@@ -20,7 +20,7 @@
 
 ### **Highlights & Awards**: 
 - 🥇 Winner – Circular Design Camp - Denmark (2024): Designed a public engagement strategy for a CO₂-reduction project (real business case).
-- 🎓 Graduated with the 2nd-highest GPA in B.Sc. Environmental Engineering.
+- 🎓 Graduated with the 2nd-highest GPA in B.Sc. Engineering.
  
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claradantas/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lealdclara@gmail.com)
